@@ -19,6 +19,7 @@ public class DemoApplication {
         System.out.println(12345);
         System.out.println(12345);
         System.out.println(12345);
+        System.out.println("this is new gitee");
     }
 
 }
