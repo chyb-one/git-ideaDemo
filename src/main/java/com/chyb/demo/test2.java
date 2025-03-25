@@ -14,5 +14,6 @@ public class test2 {
         System.out.println("I am hot-fix");
         System.out.println("I am master1");
         System.out.println("I am hot-fix2");
+        System.out.println("push this is master");
     }
 }
